@@ -9,7 +9,7 @@ title: "Data Analysis in R: Research & Learning"
 
 This is your landing page for your website for your project. This is just a launching pad for our community. Feel free to customise as much as you would like.
 
-You can use this page to give introductions about what your are doing amd your aims.
+You can use this page to give introductions about what you are doing and your aims.
 
 The structure of the website can be changed by manipulating the `_site.yml`. Font Awesome icons are available to use. You can check those out [here](https://fontawesome.com/v4.7.0/icons/).
 
