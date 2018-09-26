@@ -1,0 +1,23 @@
+---
+title: "Project"
+bibliography: library.bib
+biblio-style: apalike
+---
+
+```{r, child="_setup.Rmd"}
+```
+
+## Abstract
+
+## Introduction
+
+## Literature Review
+
+## Methodology
+
+## Results
+
+## Discussion
+
+## Conclusion
+

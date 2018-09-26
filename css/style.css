@@ -1,0 +1,36 @@
+@font-face
+{
+  font-family: 'myFancyFont';
+  src: url('fonts/SCRIPTIN.ttf');
+}
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+  background-color:#fff;
+
+  font-weight: normal;
+  color: #404040;
+}
+
+div.scroll {
+    background-color: #FFFFFF;
+    height:225px;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+blockquote {
+    border-left:none;
+    font-size: 1em;
+    display: block;
+    margin-top: .25em;
+    margin-left: 20px;
+}
+
+.level1 h1 {
+  border-bottom: 2px solid;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}

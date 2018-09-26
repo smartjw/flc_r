@@ -1,0 +1,30 @@
+---
+title: "Data Analysis in R: Research & Learning"
+---
+
+```{r, child="_setup.Rmd"}
+```
+
+## So It Begins
+
+This is your landing page for your website for your project. This is just a launching pad for our community. Feel free to customise as much as you would like.
+
+You can use this page to give introductions about what your are doing amd your aims.
+
+The structure of the website can be changed by manipulating the `_site.yml`. Font Awesome icons are available to use. You can check those out [here](https://fontawesome.com/v4.7.0/icons/).
+
+## General Structure
+
+We have provided a rough template for your website
+- **course_notes.Rmd** - Write your notes for the class, try some code, work some exercises and use this as a virtual notepad for the items we review. This is a great way to showcase new skills and serve as a reference when you can't quite remember how you did something
+
+- **pre_work.Rmd** - Use this document to complete any pre-work assignments.
+
+- **project.Rmd** - As you might have guessed, use this section to write up your project
+
+- **library.bib** - is text file that is available for you to put citations. You can then use these citations in the other Rmd documents. Also note that if you want to cite a package and want the bibtex you can do this by using the command `citation("packagename")`.
+
+- **footer.html** - Go ahead and put your name in there!
+
+When you are happy with what you have written for the day, go ahead and make a website out of it by using the following command in the console `rmarkdown::render_site()`
+
