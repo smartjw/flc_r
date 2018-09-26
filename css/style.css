@@ -1,15 +1,15 @@
-@font-face
-{
-  font-family: 'myFancyFont';
-  src: url('fonts/SCRIPTIN.ttf');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Raleway');
+
+h1, h2, h3 {
+  font-family: 'PT Sans', sans-serif;
 }
 
 body {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
-  background-color:#fff;
+  font-family: 'Raleway', sans-serif;
+}
 
-  font-weight: normal;
-  color: #404040;
+p {
+  font-family: 'Raleway', sans-serif;
 }
 
 div.scroll {
@@ -25,12 +25,4 @@ blockquote {
     display: block;
     margin-top: .25em;
     margin-left: 20px;
-}
-
-.level1 h1 {
-  border-bottom: 2px solid;
-}
-
-h2, h3, h4, h5, h6 {
-  font-weight: normal;
 }
