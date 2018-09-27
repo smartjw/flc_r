@@ -4,6 +4,10 @@ h1, h2, h3 {
   font-family: 'PT Sans', sans-serif;
 }
 
+.level1 h1 {
+  border-bottom: 1px solid;
+}
+
 body {
   font-family: 'Raleway', sans-serif;
 }

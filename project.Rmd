@@ -7,17 +7,22 @@ biblio-style: apalike
 ```{r, child="_setup.Rmd"}
 ```
 
-## Abstract
+# Abstract
 
-## Introduction
+# Introduction
 
-## Literature Review
+# Literature Review
 
-## Methodology
+# Methodology
 
-## Results
+## Data
 
-## Discussion
+## Analysis
 
-## Conclusion
+# Results
 
+# Discussion
+
+# Conclusion
+
+# References
