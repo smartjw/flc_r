@@ -6,9 +6,9 @@ Best of luck!
 
 ## Getting Started
 
-- Fork this website
+- `Fork` this website using the fork button in the upper right hand corner of the github page. This will copy the website to your own username.
 
-- Or copy this website
+- Or copy this website by downloading the files and then loading them into a *new* repository of your own naming.
 
 - Change the `_site.yml` file to your information
 
