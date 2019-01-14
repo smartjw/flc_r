@@ -5,4 +5,4 @@ title: "Jon Smart: Teaching & Research"
 ```{r, child="_setup.Rmd"}
 ```
 
-# Welcome. Is this working?.
+# Welcome. Is this working?
