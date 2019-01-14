@@ -5,4 +5,4 @@ title: "Jon Smart: Teaching & Research"
 ```{r, child="_setup.Rmd"}
 ```
 
-# Welcome. Is this working?
+# I'm working in a faculty learning community to 1) learn to use R for data analysis and making research public and 2) study how L2 students' writing varies based on learning experiences.  
