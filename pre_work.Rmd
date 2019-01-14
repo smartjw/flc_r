@@ -26,6 +26,12 @@ ggplot(iris, aes(Species, Sepal.Length))+
 ## Session 3
 
 ## Session 4
+## What will my data look like?  
+I'm interested in knowing what effects writing center use has on student writing.  So, for this project, I've collected participants' writing before they began courses at Wake (via the Directed Self Placement), data on how frequently they use the writing center, and an essay they completed in Writing 111 (the same essay task for all participants).  To analyze the essay, I'm using the web-based tool Coh-Metrix ().  In the future, I'd like to open, read, and count features in the text files directly with R.  For my project, each participant has a userid that identifies the semester they completed Writing 111 and their first language. The text analysis data is currently stored in a csv file, where the userids are columns and the text analysis features are the rows.  
+
+## Tidying my data
+
+I've been reading through the tidydata information, and it seems to make sense, but I haven't converted my data set yet, because I'm not exactly sure how.
 
 ## Session 5
 
