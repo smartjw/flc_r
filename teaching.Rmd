@@ -7,4 +7,11 @@ biblio-style: apalike
 ```{r, child="_setup.Rmd"}
 ```
 
+#Writing 111 Courses
+##The English Next Door
+##Engaging in the Conversation
+#Global Connections Program
+
+#Research on Writing
+##Text Analysis for Writing Students
 To update: teaching files and materials
