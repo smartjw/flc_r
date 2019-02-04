@@ -7,6 +7,11 @@ biblio-style: apalike
 ```{r, child="_setup.Rmd"}
 ```
 
+#Research Tools for Students
+
+##Text Analysis for Writing Students
+
+
 #Writing Courses
 
 ##The English Next Door
@@ -25,9 +30,7 @@ This is a first-year seminar I co-teach with three other faculty members.  In th
 ## Computer Assisted Language Learning
 Several years ago, I taught a [course on uses of technology in Language Learning.](https://sites.google.com/site/callnau/)  The information is largely outdated, but the students in this course made a useful wiki of our course readings and activities.  
 
-#Research on Writing
 
-##Text Analysis for Writing Students
 
 
 To update: teaching files and materials
