@@ -19,10 +19,19 @@ Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring wr
 In this study, 
 # Methodology
 
-Essays were collected from participants at two stages of their writing development.  Before the participants entered Wake Forest University, they each submitted an essay as part of the Directed Self-Placement program to help students choose which first-year writing course would best meet their needs.  The DSP writing tasks changes every year, and is developed by faculty in the university's Writing Program.  For 2018, the writing task focused on summary.  Students were asked the following: 
+This study measures writing development of students enrolled in a first-year writing course.  Essays were collected from participants (n=31) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. 
 
-'Fake news circulated on social media is a growing concern today. Even more concerning is that it can be difficult to detect. A recent article in Scientific American entitled “You Can’t Handle the Truth–At Least on Twitter” describes a recent study of Twitter users’ response to fake news. First, read the article. Then, in 250-300 words, outline the challenges outlined in the article related to how to detect and control fake news in an age of social media use.'
- 
+Before the participants entered Wake Forest University, they each submitted an essay as part of the Directed Self-Placement program to help students choose which first-year writing course would best meet their needs.  The DSP writing tasks changes every year, and is developed by faculty in the university's Writing Program.  For 2018, the writing task focused on summary.  Students were asked the following: 
+
+*Fake news circulated on social media is a growing concern today. Even more concerning is that it can be difficult to detect. A recent article in Scientific American entitled “You Can’t Handle the Truth–At Least on Twitter” describes a recent study of Twitter users’ response to fake news. First, read the article. Then, in 250-300 words, outline the challenges outlined in the article related to how to detect and control fake news in an age of social media use.*
+
+The DSP website is accessbile [here](http://writingprogram.wfu.edu/directed-self-placement)
+
+The article from *Scientific American* is [here](https://www.scientificamerican.com/article/you-cant-handle-the-truth-at-least-on-twitter/)
+
+Each participant successfully completed the university's required first-year writing course, Writing 111.  They were invited to participated in the study following their completion of the course, and their final papers from the course were collected.  The final paper of the course was a Writing Profile task that asked students to describe writing in a particuly field or genre, based on readings, guides, and an interview with a writer in the field.    
+
+
  
 ## Data
 
