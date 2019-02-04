@@ -1,8 +1,11 @@
-name: "Jon Smart: Teaching & Research"
+name: "Jon Smart"
 output_dir: "docs"
 navbar:
-  title: "Jon Smart: Teaching & Research"
+  title: "Jon Smart"
   right:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
   - text: "Course Notes"
     icon: fa-book
     href: course_notes.html
@@ -13,8 +16,8 @@ navbar:
     icon: fa-folder
     href: project.html
   - text: "Teaching"
-    icon: fa-folder
-    href: 
+    icon: fa-chalkboard-teacher
+    href: teaching.html
 output:
   html_document:
     theme: journal
