@@ -20,6 +20,10 @@ biblio-style: apalike
 #Other Courses
 
 ##But is it Art?
+This is a first-year seminar I co-teach with three other faculty members.  In the course, we work as a community of learners to address questions of how to define art and how art is judged and valued.  The students in the course usually keep a [blog](http://questioningartwfu.blogspot.com) of their work and experiences.  
+
+## Computer Assisted Language Learning
+Several years ago, I taught a [course on uses of technology in Language Learning.](https://sites.google.com/site/callnau/)  The information is largely outdated, but the students in this course made a useful wiki of our course readings and activities.  
 
 #Research on Writing
 
