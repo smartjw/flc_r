@@ -7,3 +7,4 @@ biblio-style: apalike
 ```{r, child="_setup.Rmd"}
 ```
 
+To update: teaching files and materials
