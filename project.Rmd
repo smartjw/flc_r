@@ -17,6 +17,7 @@ biblio-style: apalike
 Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring writing development in student writing by examining how clausal and phrasal features of complexity differ between first-year undergraduate students and graduate students.  In concert with complexity in academic writing, cohesive markers and other lexical features have been associated with writing quality (McNamara, Crossley, and McCartyh, 2010).  
 
 In this study, 
+
 # Methodology
 
 This study measures writing development of students enrolled in a first-year writing course.  Essays were collected from participants (n=31) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. 
