@@ -1,8 +1,13 @@
 ---
 title: "Jon Smart: Teaching & Research"
 ---
-
 ```{r, child="_setup.Rmd"}
 ```
 
-# Welcome.  
+This website is where I drop all my miscellaneous debris from my work with the WFU faculty learning community on R.  I'm slowly working through learning R while trying to work on a small research project to measure the writing development of first-year undergraduates.  
+
+## About me
+
+![](jonathansmart-214x300.jpg) 
+
+I teach in the Writing Program at Wake Forest University.  My background is in Applied Linguistics.  
