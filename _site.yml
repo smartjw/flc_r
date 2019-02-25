@@ -18,6 +18,9 @@ navbar:
   - text: "Teaching"
     icon: fa-chalkboard-teacher
     href: teaching.html
+    text: "Student Research"
+    icon: fa-microscope
+    href: Studentresearch.html
 output:
   html_document:
     theme: journal
