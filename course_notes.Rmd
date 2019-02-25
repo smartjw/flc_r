@@ -55,7 +55,64 @@ There are multiple features I would like to look at for each text (and a total o
 
 # Session 5
 
+Here are rough notes from our January 14 R data session
+
+Types of analysis to consider in our research:
+
+1. Inference (hypothesis testing)
+2. Exploratory analysis - 
+What kind of relationships may exist? 
+  e.g., Exploratory factor analysis
+3. Prediction model - is there a consistent model that you can use to make automatic decisions
+
+Post reading question on reading metrics and other text analysis tools 
+
+Syntactic parsing in R
+  see: udpipe
+  also package called usethis - 
+
+To write papers using R, check out tufte packages
+
+[Discussion board](https://github.com/WFU-TLC/flc_discussion_board/issues) is a good place to ask questions. 
+
+Recommendation: when you discover something, share it on the discussion board
+
+For information on Regular Expressions:
+https://regex101.com/
+
+To calculate TTR for different size texts, see tools/documentation in koRpus package
+
+probably have to tag or transform texts before you can analyze them in korpus
+
+udpipe - can tag texts
+
 # Session 6
+
+These are my very rough, stream-of-consciousness notes from our February 4th meeting:
+
+fs - package file structure 
+
+In order to run code in an Rmd document, use this:
+'''{r }
+'''
+
+(or use Option+Command+i to insert a chunk of R code)
+
+Can do with bash as well, if you want to include other commands, python, etc. 
+
+See Broom library
+
+Tip: If you don't need a whole library (or to remember where you got a function from), you can use this command to remember (e.g., tidy tool) - broom::tidy(lm.test)
+
+or you can do ?tidy which will tell you about tidy and where it's from
+
+Writing in R markdown, you can insert some r code (see above {r makeupanameforthischunkofcode}
+
+cable xtra - see this package
+
+read/skip headers in files, see csvy.org
+
+read lines function in readr (what is readr)
 
 # Session 7
 
