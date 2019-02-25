@@ -18,8 +18,8 @@ navbar:
   - text: "Teaching"
     icon: fa-chalkboard-teacher
     href: teaching.html
-    text: "Student Research"
-    icon: fa-microscope
+  - text: "Student Research"
+    icon: fa-book
     href: Studentresearch.html
 output:
   html_document:
