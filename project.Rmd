@@ -14,12 +14,12 @@ biblio-style: apalike
 
 # Literature Review
 
-Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring writing development in student writing by examining how clausal and phrasal features of complexity differ between first-year undergraduate students and graduate students.  In concert with complexity in academic writing, cohesive markers and other lexical features have been associated with writing quality (McNamara, Crossley, and McCartyh, 2010).  
+Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring writing development in student writing by examining how clausal and phrasal features of complexity differ between first-year undergraduate students and graduate students.  In concert with complexity in academic writing, cohesive markers and other lexical features have been associated with writing quality (Johnson, 2012; McNamara, Crossley, and McCartyh, 2010).  
 
 
 # Method
 
-This study measures writing development of students enrolled in a first-year writing course.  Essays were collected from participants (n=31) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. 
+This study measures writing development of students enrolled in a first-year writing course.  Essays were collected from participants (n=37) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. 
 
 ## Pre-test writing task
 
@@ -35,13 +35,20 @@ The article from *Scientific American* is [here](https://www.scientificamerican.
 
 After participants successfully completed the university's required first-year writing course, Writing 111, they were invite to participated in the study.  Their final papers from the course were collected and analyzed as an indicator of their writing performance.  The final paper of the course was a *writing profile* task that asked students to describe writing in a particuly field or genre, based on readings, guides, and an interview with a writer in the field. While the writing assignment did not have a specified page limit, the task was more complex, and the essays were longer than the pre-test writing task (see Table 1). 
 
-### Table 1. Pre and post essays by first-year students
- 
+### Table 2. Post-test essays by first-year students
+
+
 ## Data
 
 ## Analysis
 
 # Results
+
+| Groups           | essays | average words | lexical diversity | left-embededness | reading ease |
+|------------------|--------|---------------|-------------------|------------------|--------------|
+| L1 English       | 16     | 1326.8        | 0.5542            | 4.0254           | 49.6885      |
+| Connect Students | 10     | 1099          | 0.541428571       | 3.585285714      | 43.99871429  |
+| ESL Comparison   | 11     | 1277.666667   | 0.52975           | 4.102666667      | 44.38058333  |
 
 # Discussion
 
