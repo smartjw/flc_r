@@ -35,7 +35,8 @@ The article from *Scientific American* is [here](https://www.scientificamerican.
 
 After participants successfully completed the university's required first-year writing course, Writing 111, they were invite to participated in the study.  Their final papers from the course were collected and analyzed as an indicator of their writing performance.  The final paper of the course was a *writing profile* task that asked students to describe writing in a particuly field or genre, based on readings, guides, and an interview with a writer in the field. While the writing assignment did not have a specified page limit, the task was more complex, and the essays were longer than the pre-test writing task (see Table 1). 
 
-### Table 2. Post-test essays by first-year students
+
+
 
 
 ## Data
@@ -43,6 +44,8 @@ After participants successfully completed the university's required first-year w
 ## Analysis
 
 # Results
+
+### Table 2. Post-test essays by first-year students
 
 | Groups           | essays | average words | lexical diversity | left-embededness | reading ease |
 |------------------|--------|---------------|-------------------|------------------|--------------|
