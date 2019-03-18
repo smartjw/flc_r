@@ -4,7 +4,7 @@ bibliography: library.bib
 biblio-style: apalike
 ---
 
-```{r, child="_setup.Rmd"}
+```{r child="_setup.Rmd"}
 ```
 
 You can detail what you learned in the session within these pages. You can also use the Rmd markdown language and insert code chunks with `CMD/CTRL + SHIFT + I`.
