@@ -7,19 +7,19 @@ biblio-style: apalike
 ```{r, child="_setup.Rmd"}
 ```
 
-# Abstract
-
 # Introduction
 
+Writing centers are valuable resources for one-on-one skills development, where student writers have the opportunity to collaborate with a trained, peer tutor on their projects and improve their work in real time.  Writing centers have often been viewed favorably as useful and empowering resources for students.  Despite their popularity in North American universities and the robust research on the perceived effectiveness of center use in developing students' writing ability, relatively little is known about how peer tutoring in writing centers affects the quality of student writing.  
 
 # Literature Review
 
-Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring writing development in student writing by examining how clausal and phrasal features of complexity differ between first-year undergraduate students and graduate students.  In concert with complexity in academic writing, cohesive markers and other lexical features have been associated with writing quality (Johnson, 2012; McNamara, Crossley, and McCartyh, 2010).  
+Writing quality itself is a complex and often contentious construct.  Staples, Egbert, Biber, and Gray (2016) have introduced a model for measuring writing development in student writing by examining how clausal and phrasal features of complexity differ between first-year undergraduate students and graduate students.  In concert with complexity in academic writing, cohesive markers and other lexical features have also been associated with writing quality (Crossley et al, 2016; Johnson, 2012; McNamara, Crossley, and McCartyh, 2010).
 
+A set of core features can afford a limited view into writing development, based on recent research (Crossley et al, 2016; Johnson, 2012), such as lexical density, left-embededness, and readability 
 
 # Method
 
-This study measures writing development of students enrolled in a first-year writing course.  Essays were collected from participants (n=37) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. 
+This study measures writing development of students enrolled in a first-year writing course and how their use of the university writing center.  Essays were collected from participants (n=29) at two stages of their writing development - once before the students entered the university and after they had completed their first-year writing course. Data on participants' use of the writing center was also collected.
 
 ## Pre-test writing task
 
@@ -35,8 +35,7 @@ The article from *Scientific American* is [here](https://www.scientificamerican.
 
 After participants successfully completed the university's required first-year writing course, Writing 111, they were invite to participated in the study.  Their final papers from the course were collected and analyzed as an indicator of their writing performance.  The final paper of the course was a *writing profile* task that asked students to describe writing in a particuly field or genre, based on readings, guides, and an interview with a writer in the field. While the writing assignment did not have a specified page limit, the task was more complex, and the essays were longer than the pre-test writing task (see Table 1). 
 
-
-
+Additionally, data on the participants use of the university writing center was collected as part of the study.  The total visits per participant in the semester were tallied.  Of the 29 total participants, 15 participants went to at least one appointment during the academic term, with a mean of 2.24 visits per participant.  
 
 
 ## Data

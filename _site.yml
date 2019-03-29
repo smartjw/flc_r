@@ -9,9 +9,6 @@ navbar:
   - text: "Course Notes"
     icon: fa-book
     href: course_notes.html
-  - text: "Pre-Work"
-    icon: fa-paper-plane
-    href: pre_work.html
   - text: "Project"
     icon: fa-folder
     href: project.html
